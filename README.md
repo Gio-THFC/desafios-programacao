@@ -9,7 +9,7 @@
 | Imagem Comprobatória |
 | :---: | :--- | :--- | :---: | :---: |
 | 01 | [Introdução] | [Principais comandos iniciais]
-| Aprovado | [Ver Imagem](C:\Users\givma\OneDrive\Imagens\Screenshots\print1.png) |
+| Aprovado | [Ver Imagem]("C:\Users\givma\OneDrive\Desktop\xcode\desafios-programacao\prints\print1.png.png") |
 | 02 | [Váriaveis] | [Principais váriaveis]
 | Aprovado | [Ver Imagem](print2.png) |
 > *Observação: Ajuste o número de linhas da tabela dependendo de quantos

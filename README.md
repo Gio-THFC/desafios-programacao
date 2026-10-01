@@ -9,7 +9,8 @@
 | Imagem Comprobatória |
 | :---: | :--- | :--- | :---: | :---: |
 | 01 | [Introdução] | [Principais comandos iniciais]
-| Aprovado | [Ver Imagem](print1.png) |
+| Aprovado | [Ver Imagem](<img width="947" height="872" alt="print1 png" src="https://github.com/user-attachments/assets/578c6a0f-6a21-49cb-89ee-0bc3276759e1" />
+) |
 | 02 | [Váriaveis] | [Principais váriaveis]
 | Aprovado | [Ver Imagem](print2.png) |
 > *Observação: Ajuste o número de linhas da tabela dependendo de quantos
